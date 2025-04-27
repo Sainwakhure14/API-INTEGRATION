@@ -2,7 +2,7 @@
 *COMPANY*: CODTECH IT SOLUTIONS
 *NAME*: SAINATH DIGAMBAR WAKHURE
 *INTERN ID*: CT12WSAF
-*DOMAIN*: FROM END DEVELOPMENT
+*DOMAIN*:  Full Stack Web Development
 *DURATION*: 12 WEEKS 
 *MENTOR*: NEELA SANTOSH KUMAR
 *API Integration Task of integrating public API of an weather app using public api id*
