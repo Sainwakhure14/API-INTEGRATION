@@ -75,3 +75,6 @@ another to get the 5-day forecast
 It then shows this information nicely on the webpage. The app handles missing input and errors properly, making it user-friendly. It uses modern tools like fetch() for API requests, and Bootstrap + custom CSS for a good-looking design.
 
 This is a great example of how you can integrate third-party APIs into a basic web application to create something useful and interactive.
+
+#Output: 
+![Image](https://github.com/user-attachments/assets/f12d142b-0c38-40ae-bbc4-cb3ed263e842)
